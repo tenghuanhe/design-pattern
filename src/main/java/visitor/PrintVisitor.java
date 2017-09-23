@@ -2,7 +2,7 @@ package visitor;
 
 /**
  * Created by tenghuanhe on 2016/2/26.
- * 访问者模式的主要目的是为了能够用一个统一的结构对异构对象进行访问
+ * 璁块棶鑰呮ā寮忕殑涓昏鐩殑鏄负浜嗚兘澶熺敤涓�涓粺涓�鐨勭粨鏋勫寮傛瀯瀵硅薄杩涜璁块棶
  */
 public class PrintVisitor implements Visitor {
 
